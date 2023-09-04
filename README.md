@@ -21,6 +21,8 @@
 I have been a full-stack developer since late 2019. Being a full-stack allows me to participate in a variety of development scenarios such as web, mobile, and desktop development.
 
 Even though I've been a full-stack developer ever since, I'm focusing my efforts on studying topics related to front-end development, such as performance, SEO, accessibility, basic UI/UX concepts, and PWAs.  
+
+I'm also getting into digital marketing.
   
 
 <br/>  
