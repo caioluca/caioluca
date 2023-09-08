@@ -1,5 +1,4 @@
-## Hey 👋, I'm Caio Luca!  
-  
+## Eai 👋, eu sou Caio Luca!  
 
 <a href="https://github.com/caioluca" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -13,33 +12,15 @@
 <a href="https://linkedin.com/in/caioluca" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
 
+Eu sou um desenvolvedor Full-Stack JS/TS desde 2019, isso me possibilita desenvolver aplicações em diversos ambientes como Web, Mobile, Desktop e CLI (linha de comando).
 
+Mesmo desenvolvendo tanto Front-end, Back-end e Mobile, Decidi focar meus esforços em me especializar em Front-end, em tópicos como: performance, SEO, acessibilidade, conceitos básicos de UI/UX e PWA.
 
-### Glad to see you here!  
-I have been a full-stack developer since late 2019. Being a full-stack allows me to participate in a variety of development scenarios such as web, mobile, and desktop development.
-
-Even though I've been a full-stack developer ever since, I'm focusing my efforts on studying topics related to front-end development, such as performance, SEO, accessibility, basic UI/UX concepts, and PWAs.  
-
-I'm also getting into digital marketing.
-  
-
-<br/>  
-  
-
-- 🔭 I’m currently getting back from a sabbatical year 
-  
-
-<br/>  
-
-
-## Techs I've seen
+## Techs
 <table><tr><td valign="top" width="33%">
 
-
-
-### Professionally  
+### Profissionalmente
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -69,7 +50,7 @@ I'm also getting into digital marketing.
 
 
 
-### Side Project  
+### Projetos Pessoais
 <div align="center">  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
@@ -87,7 +68,7 @@ I'm also getting into digital marketing.
 
 
 
-### College  
+### Faculdade
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -99,6 +80,6 @@ I'm also getting into digital marketing.
 
 <br/>  
 
-## Github Stats  
+## Status GitHub
 <img src="https://github-readme-stats.vercel.app/api?username=caioluca&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 45%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioluca&hide_border=true&layout=compact" align="left" style="width: 45%" />
