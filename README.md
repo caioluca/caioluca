@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/caioluca" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-
+</br></br>
 Eu sou um desenvolvedor Full-Stack JS/TS desde 2019, isso me possibilita desenvolver aplicações em diversos ambientes como Web, Mobile, Desktop e CLI (linha de comando).
 
 Mesmo desenvolvendo tanto Front-end, Back-end e Mobile, Decidi focar meus esforços em me especializar em Front-end, em tópicos como: performance, SEO, acessibilidade, conceitos básicos de UI/UX e PWA.
